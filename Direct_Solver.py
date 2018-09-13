@@ -1,6 +1,7 @@
 """
 This is a direct solution method for lnear systems of equations. 
-First part is Gaussian Elimination (SolverGE) and Second part is for Backward Substitution (SolverBS). 
+First part is Gaussian Elimination (SolverGE) and Second part is for Backward Substitution (SolverBS).
+You can use it to solve equations by using import method.
 """
 
 import numpy
